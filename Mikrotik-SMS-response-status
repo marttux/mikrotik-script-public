@@ -1,3 +1,5 @@
+### !!!!!!!!RENAME script to "zijes" or new definition $zijes on  Mikrotik-SMS-response-status!!!!!!
+### !!!!!!!!prejmenujter script na zijes nebo definujte nove $zijes na Mikrotik-SMS-response-status !!!!!!!!
 
 ####MART#####
 ###20.11.2019 -- Script LIVE ? Zijes ?  --- checkuje zda bezi RB a ma prirazenou IP na LTE,Status ETH,Uptime,ver.ROS,Jmeno atd ..toto vse jde definovat dalsi promenou.
@@ -35,4 +37,13 @@ odpoved / response :
 jo ziju cas :1d23:10:11 verze ROSu je 6.45.6(stabel) LTE ma IP 10.11.12.13/32 jmenuju se ROUTER-LTE-TEST status ETH je TRUE. 
 
 
+############
+##Mikrotik GSM SMS back response status mikrotik and defination $variable 
+At the moment : $uptime , $status eth, $version ros $IP lte  ....
+next definition add variable get other system information. 
+############
+## Mikrotik GSM SMS zpětná odezva stav mikrotik a definice $ variabilní
+V tuto chvíli: $ uptime, $ status eth, $ version ros $ IP lte ....
+další definice přidat proměnnou získat další systémové informace.
+#############
 
